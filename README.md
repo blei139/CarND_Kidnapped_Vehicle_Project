@@ -10,3 +10,6 @@ c)  Type this command will see your run result: more log.  If you log file at th
     some debugging in particle_filter.cpp or particle_filter.h or both files will fix the performance and your project will pass with 
     success.
     
+d)  To start over the project clean, type this command: ./clean.sh, and repeat steps a) to c) to build and run your project again.
+
+    
